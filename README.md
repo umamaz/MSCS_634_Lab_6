@@ -28,4 +28,4 @@ Online Retail dataset (UCI Machine Learning Repository). After cleaning (removin
 - **Timing:** a single run took only about 0.03 s, so I averaged 20 runs of each algorithm for a fairer comparison.
 
 ## How to Run
-Install the libraries (`pip install pandas mlxtend seaborn matplotlib`), download the Online Retail dataset, update the file path in the notebook, and run all cells.
+Install the libraries (`pip install pandas mlxtend seaborn matplotlib`), download the Online Retail dataset https://www.kaggle.com/code/farzadnekouei/customer-segmentation-recommendation-system?select=data.csv, update the file path in the notebook, and run all cells.
